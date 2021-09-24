@@ -163,7 +163,7 @@ Modify the block below if there are any special requirements.
   {% endif %}
   They should have a few specific software packages installed (listed <a href="#setup">below</a>).
 </p>
-<p id="registration"><strong>Registration:</strong> <a href="https://tocyn.cymru/en/event/3b516052-a16e-4da6-9900-f892817a63c0">Tocyn Cymru</a></p>
+<p id="registration"><strong>Registration:</strong> <a href="https://tocyn.cymru/en/event/c5cc6375-bbed-42ac-bb00-d96471a9d1b5">Tocyn Cymru</a></p>
 
 {% comment %}
 ACCESSIBILITY
